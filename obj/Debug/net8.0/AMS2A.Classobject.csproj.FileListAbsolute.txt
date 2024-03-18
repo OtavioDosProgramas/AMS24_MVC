@@ -1,0 +1,4 @@
+D:\2 AMS\Jeferson\AMS2A.Classobject\obj\Debug\net8.0\AMS2A.Classobject.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 AMS\Jeferson\AMS2A.Classobject\obj\Debug\net8.0\AMS2A.Classobject.AssemblyInfoInputs.cache
+D:\2 AMS\Jeferson\AMS2A.Classobject\obj\Debug\net8.0\AMS2A.Classobject.AssemblyInfo.cs
+D:\2 AMS\Jeferson\AMS2A.Classobject\obj\Debug\net8.0\AMS2A.Classobject.csproj.CoreCompileInputs.cache
